@@ -3,6 +3,26 @@
     "Greet John 5 times": {
       "commandName": "Project",
       "commandLineArgs": "greet \"John Doe\" --times=5"
+    },
+    "Greet Alice once": {
+      "commandName": "Project",
+      "commandLineArgs": "greet \"Alice\""
+    },
+    "Greet Bob 10 times": {
+      "commandName": "Project",
+      "commandLineArgs": "greet \"Bob\" --times=10"
+    },
+    "Shout at Charlie": {
+      "commandName": "Project",
+      "commandLineArgs": "greet shout \"Charlie\""
+    },
+    "Just shout": {
+      "commandName": "Project",
+      "commandLineArgs": "greet shout"
+    },
+    "Greet no name": {
+      "commandName": "Project",
+      "commandLineArgs": "greet"
     }
   }
 }
