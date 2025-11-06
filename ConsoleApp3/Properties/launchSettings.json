@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Greet John 5 times": {
+      "commandName": "Project",
+      "commandLineArgs": "greet \"John Doe\" --times=5"
+    }
+  }
+}
